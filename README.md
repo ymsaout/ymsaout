@@ -3,8 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ymsaout">Linkedin</a> •
-  <a href="https://www.twitter.com/ymsaout">Twitter</a>
 </p>
 
 ---
-✨ I'm a software engineer working on blockchain at [Cometh](https://www.cometh.io).
+✨ I'm a software engineer working on blockchain
