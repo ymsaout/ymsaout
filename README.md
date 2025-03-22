@@ -6,4 +6,4 @@
 </p>
 
 ---
-✨ Engineer and entrepreneur focused on distributed systems, blockchain infrastructure, and applied cryptography.
+✨ Engineer and entrepreneur focused on distributed systems, blockchain infrastructure and applied cryptography.
