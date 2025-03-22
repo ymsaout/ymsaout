@@ -6,4 +6,4 @@
 </p>
 
 ---
-✨ I'm a software engineer working on blockchain
+✨ Engineer and entrepreneur focused on distributed systems, blockchain infrastructure, and applied cryptography.
